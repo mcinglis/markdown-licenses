@@ -1,12 +1,12 @@
 # Markdown Licenses
 
-Licenses should be in Markdown, because they're just text, Markdown is cool, and GitHub makes Markdown easy to read. This repository aims to provide a bunch of licenses converted to Markdown.
+This was going to be a collection of Creative Commons licenses converted to Markdown, because, amazingly, the CC licenses are *only* provided in HTML. But actually, most licenses aren't in Markdown, even though they should be. Licenses are just text, Markdown is cool, and GitHub makes Markdown easy to read.
 
-Also, more public Git repositories should include a license file, because it's the difference between "all rights reserved" and "some rights reserved". So this project also aims to help people choose one.
+So this repository aims to provide a bunch of licenses converted to Markdown.  Pull-requests are very welcome.
 
-Pull-requests with more licenses are very welcome.
+Also, more public Git repositories should include a license file, because it's the difference between "all rights reserved" and "some rights reserved.
 
-The text below has been taken from GitHub's [choosealicense.com](http://choosealicense.com/). The descriptions for the Creative Commons licenses are from the [Creative Commons website](https://creativecommons.org/).
+To help people choose a license, this README will include text from GitHub's [choosealicense.com](http://choosealicense.com/) as each license is converted. The descriptions for the Creative Commons licenses are from the [Creative Commons website](https://creativecommons.org/).
 
 ---
 
