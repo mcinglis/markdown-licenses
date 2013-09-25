@@ -8,7 +8,7 @@ Also, more public Git repositories should include a license file, because it's t
 
 To help people choose a license, this readme will include text from GitHub's [choosealicense.com](http://choosealicense.com/) as each license is converted. The descriptions for the Creative Commons licenses are from the [Creative Commons website](https://creativecommons.org/).
 
-## Terms of service
+#### Terms of service
 
 This document is not legal advice. The author is not a lawyer. The author can't provide legal advice. Contacting the author does not create an attorney-client relationship. The author of this repository may have made mistakes when copying the licenses contained herein. You accept full responsibility for your decision to use anything provided in this repository.
 
