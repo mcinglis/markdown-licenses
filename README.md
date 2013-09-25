@@ -18,13 +18,15 @@ The **GNU General Public License** (GPL) is a copyleft license that requires any
 
 The **MIT License** is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable. ([markdown](/mit.md))
 
-## My content isn't code.
-
-The **Creative Commons Attribution-ShareAlike** license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. ([markdown](/cc-attribution-sharealike.md), [original](https://creativecommons.org/licenses/by-sa/3.0/legalcode))
-
-## I want to release my software into the public domain.
+## I want to put my software in the public domain.
 
 The **Unlicense** dedicates your software to the public domain. Anyone would be able to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means. You won't be held liable. ([markdown](/unlicense.md), [original](http://unlicense.org/))
+
+## My content isn't code.
+
+The [Creative Commons](https://creativecommons.org/) licenses are great for creative works that aren't software.
+
+The **Creative Commons Attribution-ShareAlike** license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. ([markdown](/cc-attribution-sharealike.md), [original](https://creativecommons.org/licenses/by-sa/3.0/legalcode))
 
 ## I don't want to license my software.
 
