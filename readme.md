@@ -1,21 +1,18 @@
-# Creative Commons in markdown
+# Markdown Licenses
 
-I wanted to license a repository with Creative Commons, but I was amazed to find that the CC legal codes are only available as [webpages](https://creativecommons.org/licenses/by/3.0/legalcode); there's no way to acquire the CC licenses without markup.
+Licenses should be in Markdown, because they're just text, Markdown is cool, and GitHub makes Markdown easy to read. This repository aims to provide a bunch of licenses converted to Markdown.
 
-So I converted the [Attribution-ShareAlike](/attribution-sharealike.md) license to Markdown because that's what I wanted to use. I'll add more as I want them.
+Also, more public Git repositories should include a license file, because it's the difference between "all rights reserved" and "some rights reserved". So, I've copied some text from GitHub's [choosealicense.com](http://choosealicense.com/) to help people choose one.
 
-Please fork and add more CC licenses - but stick to the same Markdown format as the existing licenses.
+Pull-requests with more licenses are very welcome.
 
-## What is this jibberish?
+---
 
-[Git](http://git-scm.com/) is a tool that lets people work together on files. It's a [distributed version control system](https://www.youtube.com/watch?v=8oRjP8yj2Wo).
+## I care about sharing improvements
 
-A Git project is called a repository. It contains the files and folders of the project and the record of changes to those files.
+The **GNU General Public License** (GPL) is a copyleft license that requires anyone who distributes your code or a derivative work to make the source available under the same terms. ([markdown](/gnu-gpl.md), [original](https://www.gnu.org/licenses/gpl-3.0.html))
 
-A repository should have a license file that specifies what terms the authors provide their work under.
+## My content isn't code
 
-The [Creative Commons](https://creativecommons.org/) licenses are free, easy-to-use copyright licenses which provide a simple, standardized way to give the public permission to share and use your creative work — on conditions of your choice. CC licenses let you easily change your copyright terms from the default of "all rights reserved" to "some rights reserved."
+The **Creative Commons Attribution-ShareAlike** license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects. (*description from the CC website*) ([markdown](/cc-attribution-sharealike.md), [original](https://creativecommons.org/licenses/by-sa/3.0/legalcode))
 
-There are other licenses like the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) which are better for public software projects. The Creative Commons licenses are great for other creative works, though.
-
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a plain-text formatting syntax which is easy to write and easy to read. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
