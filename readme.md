@@ -1,4 +1,4 @@
-# Creative Commons licenses in Markdown
+# Creative Commons in markdown
 
 I wanted to license a Git repository under Creative Commons, but I was amazed to find that there's no way to acquire the CC licenses in text.
 
