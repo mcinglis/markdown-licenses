@@ -8,7 +8,13 @@ Also, more public Git repositories should include a license file, because it's t
 
 To help people choose a license, this readme will include text from GitHub's [choosealicense.com](http://choosealicense.com/) as each license is converted. The descriptions for the Creative Commons licenses are from the [Creative Commons website](https://creativecommons.org/).
 
-**Terms of service:** this document is not legal advice. I'm not a lawyer. I don't, won't and can't provide legal advice. Contacting me does not create an attorney-client relationship. I make mistakes, and there may be mistakes in the copies of these licenses. I provide all content in this repository on an "as-is" basis. I make no warranties regarding any information or licenses contained in this repository, and I disclaim all liability for any costs or damages resulting from the use of these licenses, directly or indirectly.
+## Terms of service
+
+This document is not legal advice. The author is not a lawyer. The author can't provide legal advice. Contacting the author does not create an attorney-client relationship. The author of this repository may have made mistakes when copying the licenses contained herein. You accept full responsibility for your decision to use anything provided in this repository.
+
+All documents in this repository are provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringment. In no event shall the authors be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with these documents.
+
+I provide this document under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.The license files in this repository, however, are licensed under their own terms. Contact their respective authors for more information.
 
 ---
 
