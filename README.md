@@ -22,7 +22,11 @@ The **MIT License** is a permissive license that is short and to the point. It l
 
 The **Creative Commons Attribution-ShareAlike** license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. ([markdown](/cc-attribution-sharealike.md), [original](https://creativecommons.org/licenses/by-sa/3.0/legalcode))
 
-## I don't want a license.
+## I want to release my software into the public domain.
+
+The **Unlicense** dedicates your software to the public domain. Anyone would be able to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means. You won't be held liable. ([markdown](/unlicense.md), [original](http://unlicense.org/))
+
+## I don't want to license my software.
 
 You're under no obligation to choose a license and it's your right not to include one with your code or project. But please note that opting out of open source licenses doesn't mean you’re opting out of copyright law.
 
