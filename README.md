@@ -6,7 +6,7 @@ So this repository aims to provide a bunch of licenses converted to Markdown.  P
 
 Also, more public Git repositories should include a license file, because it's the difference between "all rights reserved" and "some rights reserved.
 
-To help people choose a license, this README will include text from GitHub's [choosealicense.com](http://choosealicense.com/) as each license is converted. The descriptions for the Creative Commons licenses are from the [Creative Commons website](https://creativecommons.org/).
+To help people choose a license, this readme will include text from GitHub's [choosealicense.com](http://choosealicense.com/) as each license is converted. The descriptions for the Creative Commons licenses are from the [Creative Commons website](https://creativecommons.org/).
 
 ---
 
@@ -18,11 +18,11 @@ The **GNU General Public License** (GPL) is a copyleft license that requires any
 
 The **MIT License** is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable. ([markdown](/mit.md))
 
-## My content isn't code
+## My content isn't code.
 
 The **Creative Commons Attribution-ShareAlike** license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. ([markdown](/cc-attribution-sharealike.md), [original](https://creativecommons.org/licenses/by-sa/3.0/legalcode))
 
-## I don't want a license
+## I don't want a license.
 
 You're under no obligation to choose a license and it's your right not to include one with your code or project. But please note that opting out of open source licenses doesn't mean you’re opting out of copyright law.
 
