@@ -12,11 +12,11 @@ To help people choose a license, this readme will include text from GitHub's [ch
 
 ### Terms of service
 
-This document is not legal advice. The author is not a lawyer. The author can't provide legal advice. Contacting the author does not create an attorney-client relationship. The author of this repository may have made mistakes when copying the licenses contained herein. You accept full responsibility for your decision to use anything provided in this repository.
+This document is not legal advice. The author is not a lawyer. The author can't provide legal advice. Contacting the author does not create an attorney-client relationship. The author of this repository may have made mistakes when copying the licenses contained herein. You accept full responsibility for your decision to use any of these documents for any purpose.
 
 All documents in this repository are provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringment. In no event shall the authors be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with these documents.
 
-As well as the above conditions, I provide this document under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/) license. The license files in this repository, however, are licensed under their own terms. Contact their respective authors for more information.
+As well as the above conditions (which have precedence over other terms), I provide this document under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-nc-sa/3.0/) license. The license files in this repository, however, are licensed under their own terms. Contact their respective authors for more information.
 
 ---
 
